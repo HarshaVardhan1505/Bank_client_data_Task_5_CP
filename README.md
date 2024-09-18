@@ -4,7 +4,7 @@ This repository contains an analysis of a bank client dataset, where pivot table
 
 ## Dataset Description
 
-The dataset contains information about clients' demographics, financial history, and contact information from the bank's marketing campaigns. It can be accessed using the following [Google Drive link](https://drive.google.com/file/d/1vd1EdHh9YDwV41Wuxb-z_eUQCyURz4FD/view?usp=sharing)【4†source】.
+The dataset contains information about clients' demographics, financial history, and contact information from the bank's marketing campaigns. It can be accessed using the following [Google Drive link](https://drive.google.com/file/d/1vd1EdHh9YDwV41Wuxb-z_eUQCyURz4FD/view?usp=sharing).
 
 ### Columns:
 1. **Age**: Numeric
